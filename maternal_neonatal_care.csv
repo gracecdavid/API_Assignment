@@ -1,0 +1,10 @@
+Female,45,Preterm Labor,03-02-2023,25-06-2023,24-03-2023,C-Section,Respiratory Distress,Oxytocin,None,6,4,Transferred,Healthy
+Female,45,Preterm Labor,18-05-2023,09-11-2023,30-11-2023,C-Section,Neonatal Jaundice,Epidural,Oxygen Therapy,6,5,Recovered,Healthy
+Female,26,Gestational Diabetes,07-01-2023,17-03-2023,20-03-2023,Assisted Delivery,Prematurity,Epidural,None,5,5,Deceased,Transferred to NICU
+Female,25,Preeclampsia,31-01-2023,20-06-2023,17-11-2023,C-Section,Neonatal Jaundice,Oxytocin,NICU Admission,2,10,Complicated Recovery,Transferred to NICU
+Female,39,Preeclampsia,03-03-2023,20-01-2023,04-06-2023,Assisted Delivery,Prematurity,None,Oxygen Therapy,7,3,Complicated Recovery,Healthy
+Female,40,Preterm Labor,04-02-2023,26-11-2023,27-08-2023,C-Section,None,None,NICU Admission,3,8,Recovered,Deceased
+Female,19,Placenta Previa,26-03-2023,13-04-2023,18-03-2023,C-Section,Prematurity,None,Oxygen Therapy,2,5,Recovered,Healthy
+Female,29,Gestational Diabetes,17-04-2023,31-10-2023,22-01-2023,C-Section,Prematurity,Epidural,None,7,7,Transferred,Healthy
+Female,29,Gestational Diabetes,23-01-2023,10-12-2023,06-06-2023,Assisted Delivery,Neonatal Jaundice,Epidural,Phototherapy,3,7,Complicated Recovery,Healthy
+Female,18,None,12-04-2023,08-11-2023,23-02-2023,C-Section,Prematurity,Epidural,None,2,2,Transferred,Transferred to NICU
