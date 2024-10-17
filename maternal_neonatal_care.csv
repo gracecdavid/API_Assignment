@@ -1,4 +1,4 @@
-Gender (Mother),Age,Pregnancy_Complications,Admit_date,Delivery_Date,Discharge_date,TypeOfDelivery,Neonatal_Complications,Mother_Treatment_Given,Baby_Treatment_Given,DaysOfStay_Mother,DaysOfStay_Baby,Mother_DischargeStatus,Baby_DischargeStatus
+Gender,Age,Pregnancy_Complications,Admit_date,Delivery_Date,Discharge_date,TypeOfDelivery,Neonatal_Complications,Mother_Treatment_Given,Baby_Treatment_Given,DaysOfStay_Mother,DaysOfStay_Baby,Mother_DischargeStatus,Baby_DischargeStatus
 Female,45,Preterm Labor,03-02-2023,25-06-2023,24-03-2023,C-Section,Respiratory Distress,Oxytocin,None,6,4,Transferred,Healthy
 Female,45,Preterm Labor,18-05-2023,09-11-2023,30-11-2023,C-Section,Neonatal Jaundice,Epidural,Oxygen Therapy,6,5,Recovered,Healthy
 Female,26,Gestational Diabetes,07-01-2023,17-03-2023,20-03-2023,Assisted Delivery,Prematurity,Epidural,None,5,5,Deceased,Transferred to NICU
